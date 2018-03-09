@@ -1,6 +1,6 @@
 ---
 title: Контакти
-logo: /img/8brxvmypl0.jpg
+logo: /img/logo.svg
 contact_entries: []
 ---
 ## АПАРАТ КЕРІВНИЦТВА
